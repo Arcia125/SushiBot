@@ -1,4 +1,6 @@
 import bot
+import coordinates
+
 
 
 def main():

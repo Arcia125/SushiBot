@@ -1,6 +1,5 @@
 class Customer(object):
     list = []
-
     def __init__(self, table, order):
         self.list.append(self)
         self.table = table
